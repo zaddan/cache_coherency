@@ -1,0 +1,7 @@
+attempting to do a str to addr:0  node:0
+*******node:0    addr:0    changed_from:INVALID    to:MODIFIED
+-------node:0    addr:0    data_changed_to:200
+attempting to do a load to addr:0  node:1
+*******node:0    addr:0    changed_from:MODIFIED    to:SHARED
+*******node:1    addr:0    changed_from:INVALID    to:SHARED
+-------node:1    addr:0    data_changed_to:200
